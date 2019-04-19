@@ -32,7 +32,7 @@ async function processFiles(list) {
     const statList = await Promise.all(list.map(getStats));
     const vocab = statList.reduce((total, sz) => total + sz, 0);
     console.log(`
-    Vocabulary: ${vocab}
+    Vocabulary: ~${Number(vocab)/2.5}
     `);
 }
 
