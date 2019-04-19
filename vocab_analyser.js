@@ -21,18 +21,19 @@ async function listFilesRecursive(directory) {
     return [...files, ...filesFromSubDirectories];
 }
 
-async function getStats(fileData) {
+async function getWords(fileData) {
     const data = (await fs.readFile(fileData.path)).toString();
     const words = data.replace(/(\n|\s|:|\.|"|'|[\d]|\(|\)|-|>|<|,|;)/g, ' ').split(' ').map(x => x.trim().toLowerCase()).filter(x => x);
-    const set = new Set(words);
-    return set.size;
+    return words;
 }
 
 async function processFiles(list) {
-    const statList = await Promise.all(list.map(getStats));
-    const vocab = statList.reduce((total, sz) => total + sz, 0);
+    const words = (await Promise.all(list.map(getWords)))
+        .reduce((arr, list) => [...arr, ...list], []);
+    const vocab = new Set(words).size;
     console.log(`
     Vocabulary: ~${Number(vocab)/2.5}
+    Words written: ~${Number(words.length)}
     `);
 }
 
