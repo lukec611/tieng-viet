@@ -41,62 +41,35 @@ gập (v)
 mù
 máu
 thuyền
+cơ thể
+xương
+chai
+đáy
+não
+cây cầu
+xây
+tòa nhà
+đốt
+cháy (n + v)
+xách
+thẻ
+bắt
+trần (nhà)
+điện thoại di động
+phô mai
+đứa trẻ
+nhà thờ
+vòng tròn
+sạch sẽ
+dọn dẹp
+áo khoác
+phụ âm
+hợp đồng
+mát
+đồng
+(bắp) ngô
 
 *****
-<img src="Thuyền_buồm.jpg" />&nbsp;<div><br /></div>
-cơ thể
-<img src="ctn001.jpg" />&nbsp;<div><br /></div>
-xương
-<img src="bone.png" />&nbsp;
-chai
-<img src="bottle.png" />
-đáy
-<img src="ma-so-doc-hai-duoi-day-chai-e17eba.jpg" /><img src="San-ho2.jpg" /><img src="ech-ngoi.jpg" /><div><br /></div>
-não
-<img src="brain1.jpg" />
-cây cầu
-<img src="vforum.vn-151537-05.jpg" />&nbsp;
-xây
-<img src="hoạch toán doanh thu xây dựng theo thông tư 200.jpg" />&nbsp;<div><br /></div>
-tòa nhà
-<img src="thumb640x430.113488.jpg" />&nbsp;
-đốt
-<img src="1_UIGT.jpg" />&nbsp;
-cháy (n + v)
-<img src="1434774332-5d1chaytiemvang.jpg" />&nbsp;<img src="101107cl1chaynang-2.jpg" />&nbsp;<div><br /></div>
-xách
-<img src="tui-xach-du-lich-thoi-trang-glado-tbg001-xam-7073-7154243-4d7634309bab6e10fd297916084e41f7-catalog_233.jpg" />
-thẻ
-<img src="thenhuavipdanang.jpg" />&nbsp;
-bắt
-<img src="Brett_Gardner_leaping_catch.jpg" /><img src="bat_837597.jpg" />&nbsp;
-trần (nhà)
-<img src="tong-hop-cac-kieu-tran-nha-thong-dung4.png" />&nbsp;
-điện thoại di động
-<img src="996dd69b8296f956c57e3299d909069f_phpvkyorc.jpg" />&nbsp;
-phô mai
-<img src="1442974715cho-bé-ăn-pho-mai-thế-nào-là-đúng.jpg" />&nbsp;<div><br /></div>
-đứa trẻ
-<img src="14424560669138_ngaynaytuvi12cunghoangdaongay2442015.jpg" />&nbsp;
-nhà thờ
-<img src="nha.tho.phaolo-copy.jpg" />
-vòng tròn
-<img src="6RZtxA-20170122-nhin-thay-cai-gi-do-trong-nhung-vong-tron-nay-thi-mat-ban-dat-10-10-day.jpg" />&nbsp;
-sạch sẽ
-<img src="cleanbathroom.jpg" />&nbsp;
-dọn dẹp
-<img src="tu-vung-tieng-anh-ve-trang-tri-va-don-dep-nha-cua.jpg" />&nbsp;
-áo khoác
-<img src="676.jpg" />
-phụ âm
-r t th p l s đ d ... (n)
-hợp đồng
-<img src="hop-dong.jpg" />&nbsp;
-mát
-<img src="cach-lam-mat-cho-phong.02.jpg" />&nbsp;
-đồng
-<img src="dong-do-day-tran.jpg" />&nbsp;
-(bắp) ngô
 <img src="bap-ngo.png" />&nbsp;
 góc
 <img src="L6_Ch2_h23a.jpg" /><img src="Bi-quyet-ve-keo-phat-goc-trong-ca-do-bong-da.jpg" /><div><br /></div>
