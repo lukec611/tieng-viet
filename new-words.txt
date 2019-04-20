@@ -19,6 +19,7 @@ lưu lượng - flow
 sự ảnh hưởng - influence   (n)
 tầm ảnh hưởng - influence  (n)
 dịch giả - translator
+dịch thuật viên - translator
 nhân viên - employee
 đường viền - border/edge
 điều tra - investigate
