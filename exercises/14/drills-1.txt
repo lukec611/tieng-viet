@@ -1,0 +1,34 @@
+Thí dụ
+
+    Anh lấy từ điển tôi. Anh dùng quyển từ điển ấy.
+->  Anh lấy từ điển tôi mà dùng.
+
+1.  Chị ra quán cơm bình dân. Chị ăn ở đẩy.
+->  Chị ra quán cơm bình dân mà ăn ở đây.
+
+2.  Cậu mua báo hôm nay. Cậu đọc tin ấy.
+->  Cậu mua báo hôm nay mà đọc tin.
+
+3.  Nếu trong phòng anh ở ký túc xá ến thì anh ra thư viện. Anh học ở đấy.
+->  Nếu trong phòng anh ở ký túc xá ến thì anh ra thư viện ma học ở đẩy.
+
+4.  Chị ra bờ sông. Chị tập chạy ở ngoài ấy.
+->  Chị ra bờ sông mà tập chạy ở ngoài ấy.
+
+5.  Cậu gặp giáo sư Toàn. Cậu hỏi về vấn để này.
+->  Cậu gặp giáo sư Toàn mà hỏi về vấn để này.
+
+6.  Nếu chị vội thì chị lấy xe tôi. Chị đi xe của tôi kẻo muộn.
+->  Nếu chị vội thì chị lấy xe tôi mà đi xe của tôi kẻo muộn.
+
+7.  Anh ra hiệu sách ở đường Nguyễn Huệ. Anh mua quyển từ điển Viẹt-Anh mới.
+->  Anh ra hiệu sách ở đường Nguyễn Huệ mà mua quyển từ điện Việt-Anh mới.
+
+8.  Nếu chị cần gặp kỹ sư Tùng thì ngồi đây. Chị chờ ông ấy.
+->  Nếu chị cần gặp kỹ sư Tùng thì ngồi đây mà chờ ông ấy.
+
+9.  Nếu máy vi tình của cậu bị hỏng thì lấy máy của mình. Cậu dùng máy 
+    của mình.
+->  Nếu mày vi tình của cậu bị hỏng thì lấy máy của mình mà dùng.
+10. Nếu anh bị ho thì ra hiệu thuốc gần đây. Anh mua thuốc ho.
+->  Nếu anh bị ho thì ra hiệu thuốc gần đây mà mua thuốc ho.
