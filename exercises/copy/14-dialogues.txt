@@ -51,3 +51,28 @@ B:  Trông xa thế mà khi mưa thì chạy không kịp đâu! Mùa này là
     thường chỉ ít phút sau là tạnh. Trời trở nên mát mẻ, dễ chịu.
 A:  Tôi đã nghe trong một bài hát nào đó: Nhớ Sài Gòn mưa rồi
     chợt nắng. Đúng thật!
+
+Hội thoại 4.
+
+Độ F và độ C 
+
+A - Người Việt
+B - Người Mỹ
+
+A:  Sáng nay tôi xem dự báo thời tiết trên ti vi, thấy nói hôm nay 
+    ở Boston nóng đến 92 độ. Có lẽ tôi nghe nhầm, chứ làm gì có nơi 
+    nào nhiệt độ lên đến 92 độ.
+B:  Chị nghe không nhầm đâu! 92 độ F chứ không phải 92 độ C.
+A:  92 độ F là bao nhiêu độ C?
+B:  Chị thử tính xem. Lấy độ F trừ đi 32.
+A:  92 trừ 32 còn 60.
+B:  Nhân với 5.
+A:  60 nhân với 5 bằng 300.
+B:  Chia cho 9.
+A:  300 chia cho 9 bằng khoẩng 33 phẩy 3 độ C. Nóng đấy, nhưng so với 
+    Hà Nội thì chưa ăn thua gì.
+B:  Mùa hè ở Hà Nội nóng đến bao nhiêu độ?
+A:  Có thể nóng đến 38 độ C.
+B:  Để tôi tính ra độ F xem. 38 nhân với 9 là 342, chia cho 5 là  68
+    chấm 4, cộng với 32 là 100 chấm 4 độ F. Thế thì Hà Nội nóng thật.
+A:  Lại còn ẩm nữa chứ!
