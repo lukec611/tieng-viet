@@ -30,5 +30,55 @@ Thí dụ
 9.  Nếu máy vi tình của cậu bị hỏng thì lấy máy của mình. Cậu dùng máy 
     của mình.
 ->  Nếu mày vi tình của cậu bị hỏng thì lấy máy của mình mà dùng.
+
 10. Nếu anh bị ho thì ra hiệu thuốc gần đây. Anh mua thuốc ho.
 ->  Nếu anh bị ho thì ra hiệu thuốc gần đây mà mua thuốc ho.
+
+B.
+
+Thí dụ
+    Queyển từ điển ấy có nhiều từ lắm. Anh ấy mới mua quyển từ điển 
+    hôm qua.
+->  Queyển từ điển mà anh ấy mới mua hôm qua có nhiều từ lắm.
+
+1.  Bộ phim ấy hay lắm. Tôi xem bộ phim ấy tuần trước.
+->  Bộ phim mà tôi xem tuần trước hay lắm.
+
+2.  Loại ô tô này rất tốt. Năm ngoái tôi định mua nó nhưng không có
+    đủ tiển.
+->  Loại ô tô mà năm ngoái tôi định mua nhưng không có đủ điển rất 
+    tốt.
+
+3.  Ngày ấy là ngày 2 tháng 9 năm 1945. Vào ngày ấy Việt Nam trở 
+    thành một nước độc lập.
+->  Ngày mà Việt Nam trở thành một nước độc lập là ngày 2 tháng 9 
+    năm 1945.
+
+4.  Khu nhà kia là khu thể thao của trường đại học. Các bạn thấy 
+    khu nhà ở đằng kia.
+->  Khu nhà mà bạn thấy ở đằng kia là khu thể thao của trường đại học.
+
+5.  Chiếc máy vi tính này không có chương trình ấy. Anh đang dùng nó.
+->  Chiếc máy vi tính mà anh đang dùng không có chương trình ấy.
+
+6.  Khách sạn ấy tên là Đông Đô. Chúng tôi ở khách sạn ấy trong
+    chuyến đi thăm Hà Nội.
+->  Khách sạn mà chúng tôi ở trong chuyến đi Hà Nội tên là Đông Đô.
+
+7.  Người đó là kỹ sư Ngọc. Tôi giới thiệu người ấy với anh sáng nay.
+->  Người ấy mà tôi giới thiệu với anh sáng nay là kỹ sư Ngọc.
+
+8.  Kgu phố ấy được coi là khu phố cổ của Hà Nội. Chúng ta sắp đến 
+    thăm khu phố ấy.
+->  Khu phố ấ mà chúng ta sắp đến thăm được coi là khu phố cổ.
+
+9.  Loại bia này do một nhà máy liên doanh với Đan Mạch sản xuất.
+    Cậu đang uống loại bia này.
+->  Loại bia mà cậu đang uống do một nhà máy liên doanh với Đan Mạch
+    sản xuất.
+
+10. Chiếc đồng hồ này chạy còn tốt lắm. Anh tôi tặng tôi chiếc 
+    đồng hồ này cách đây 10 năm.
+->  Chiếc đồng hồ này mà anh tôi tặng tôi cách đây 10 năm chạy còn
+    tốt lắm.
+

@@ -34,6 +34,8 @@ async function processFiles(list) {
     console.log(`
     Vocabulary: ~${Number(vocab)/2.5}
     Words written: ~${Number(words.length)}
+    No. A4 Pages: ~${words.join('').length / 624}
+    No. 128 Page A4 books: ~${words.join('').length / (624 * 128)}
     `);
 }
 
